@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🏃 I currently work at SSW https://ssw.com.au/people/matt-wicks
-- 🔭 I’m currently working on client work (current project has some Angular, .NET Core and CosmosDB)
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on any project I use to make it better
 - 💬 Ask me about DevOps 😄
 - 📫 How to reach me: 🐤 @matteightyate
+- 🏃 I work at SSW https://ssw.com.au/people/matt-wicks
+- 🔭 Client project has some Angular, .NET Core and CosmosDB 🪐
+- 🌱 I’m learning some SwiftUI in my spare time
+- 👯 I’m looking to collaborate on any project I use to make it better
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: used to tenpin bowl 🎳 (high game 299)
 
