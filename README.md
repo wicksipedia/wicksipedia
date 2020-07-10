@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🏃 I currently work at SSW https://ssw.com.au/people/matt-wicks
 - 🔭 I’m currently working on client work (current project has some Angular, .NET Core and CosmosDB)
 - 🌱 I’m currently learning SwiftUI
 - 👯 I’m looking to collaborate on any project I use to make it better
