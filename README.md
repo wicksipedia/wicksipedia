@@ -1,47 +1,52 @@
-Hi 👋 My name is Matt Wicks
-===========================
+# Matt Wicks - SSW Solution Architect 👋
 
-SSW Solution Architect
-----------------------
+![Location](https://img.shields.io/badge/-Newcastle,_Australia-0891b2?style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/matteightyate?logo=twitter&style=flat-square&color=0891b2)
+![GitHub followers](https://img.shields.io/github/followers/wicksipedia?logo=github&style=flat-square&color=0891b2)
 
-- 🌍  I'm based in Newcastle 🦘
-- 💬 Ask me about DevOps, Scrum, Azure, GitHub, Azure DevOps, .NET Core, and Angular 😄
-- 👨‍👩‍👧‍👧 Father of 2 awesome girls (trying to make the world a better place for them)
-- 🌱 I’m enjoying learning more about Blazor when I can
-- ⚡ Fun fact: used to tenpin bowl 🎳 (high game 299)
+---
 
-<a href="https://www.twitter.com/matteightyate" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/matteightyate?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/wicksipedia" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/wicksipedia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+I am a seasoned Solution Architect from SSW, a software consultancy, with a knack for DevOps, Scrum, Azure, GitHub, Azure DevOps, .NET, and Angular. My mission is to leverage technology to make the world a better place for my two awesome daughters.
 
-### Skills
+### 🎯 Quick Facts
 
-<p align="left">
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" width="36" height="36" alt=".NET" /></a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-    <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
+- 🌱 Exploring new horizons with Blazor.
+- ⚡ High Game in Tenpin Bowling: 299.
+- 🌐 [wicksipedia.com](https://wicksipedia.com)
+  
+### 💼 Professional Endeavors
 
-### Socials
+- 🔄 Architecting seamless CI/CD pipelines.
+- 🚀 Enhancing applications with Cloud Native approaches.
+- 💻 Embracing modern web frameworks to build intuitive UI/UX.
 
-<p align="left"> <a href="https://www.github.com/wicksipedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/wicksipedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matt-wicks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://wicksipedia.com/feed.xml" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/matteightyate" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### 🛠️ Technologies & Tools
 
-### Badges
+![.NET](https://img.shields.io/badge/-_.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+... (more technologies)
 
-<b>My GitHub Stats</b>
+### 📈 GitHub Stats
 
-<a href="http://www.github.com/wicksipedia"><img src="https://github-readme-stats.vercel.app/api?username=wicksipedia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wicksipedia's GitHub stats" /></a>
+<details>
+<summary>Show/Hide</summary>
 
-<a href="http://www.github.com/wicksipedia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wicksipedia&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wicksipedia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
-<a href="http://www.github.com/wicksipedia"><img src="https://activity-graph.herokuapp.com/graph?username=wicksipedia&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wicksipedia&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
+![Commits Graph](https://activity-graph.herokuapp.com/graph?username=wicksipedia&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+
+</details>
+
+### 🌐 Socials
+
+[![GitHub](https://img.icons8.com/nolan/64/github.png)](https://www.github.com/wicksipedia) 
+[![LinkedIn](https://img.icons8.com/nolan/64/linkedin.png)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=matt-wicks)
+[![Twitter](https://img.icons8.com/nolan/64/twitter.png)](https://www.twitter.com/matteightyate)
+[![Instagram](https://img.icons8.com/nolan/64/instagram-new.png)](http://www.instagram.com/wicksipedia)
+[![RSS](https://img.icons8.com/nolan/64/rss.png)](https://wicksipedia.com/feed.xml)
