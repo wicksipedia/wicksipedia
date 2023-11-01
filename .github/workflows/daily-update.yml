@@ -19,4 +19,5 @@ jobs:
           feed-url: https://wicksipedia.com/feed.xml
           readme-section: feed
           max: 3 # max number of items (default 5)
+          empty-commits: false # create empty commits if no changes (default true)
           template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
