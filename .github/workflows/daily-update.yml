@@ -1,0 +1,22 @@
+name: Daily update
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: JasonEtco/rss-to-readme@v2
+        with:
+          feed-url: https://wicksipedia.com/feed.xml
+          readme-section: feed
+          max: 3 # max number of items (default 5)
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"

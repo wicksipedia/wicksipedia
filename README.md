@@ -20,6 +20,11 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 - 🚀 Enhancing applications with Cloud Native approaches.
 - 💻 Embracing modern web frameworks to build intuitive UI/UX.
 
+### 📙 Blog Posts
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
 ### 🛠️ Technologies & Tools
 
 ![.NET](https://img.shields.io/badge/-_.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
