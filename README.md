@@ -23,6 +23,12 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+#### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns) 
+*Explore the pitfalls of using environment-specific branches in CI/CD pipelines and discover how trunk-based branching and binary promotion can streamline your DevOps process. Optimize your CI/CD workflow for efficiency and consistency.*
+#### [Git and diffs](https://wicksipedia.com/blog/git-and-diffs) 
+*What do you do when you are trying to work out what has happenned over the span of a few commits?*
+#### [GitHub settings as code](https://wicksipedia.com/blog/github-settings-as-code) 
+*How/why you should apply code policies to your GitHub repo's settings*
 <!--END_SECTION:feed-->
 
 ### 🛠️ Technologies & Tools
