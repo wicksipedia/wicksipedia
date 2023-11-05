@@ -22,7 +22,7 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 
 ### 📙 Blog Posts
 
-To subscribe to the RSS feed - [wicksipedia.com/feed.xml](https://wicksipedia.com/feed.xml).
+To subscribe to the RSS feed - [wicksipedia.com/feed.xml](https://wicksipedia.com/feed.xml)
 
 <!--START_SECTION:feed-->
 #### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns) 
