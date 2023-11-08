@@ -22,8 +22,6 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 
 ### 📙 Blog Posts
 
-To subscribe to the RSS feed - [wicksipedia.com/feed.xml](https://wicksipedia.com/feed.xml)
-
 <!--START_SECTION:feed-->
 #### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns) 
 *Explore the pitfalls of using environment-specific branches in CI/CD pipelines and discover how trunk-based branching and binary promotion can streamline your DevOps process. Optimize your CI/CD workflow for efficiency and consistency.*
@@ -32,6 +30,12 @@ To subscribe to the RSS feed - [wicksipedia.com/feed.xml](https://wicksipedia.co
 #### [GitHub settings as code](https://wicksipedia.com/blog/github-settings-as-code) 
 *How/why you should apply code policies to your GitHub repo's settings*
 <!--END_SECTION:feed-->
+
+#### Stay Updated with Wicksipedia
+
+Never miss an update from Wicksipedia! Subscribe to my **RSS feed** to get the latest content directly to your reader.
+
+🔗 [Subscribe Now](https://wicksipedia.com/feed.xml)
 
 ### 🛠️ Technologies & Tools
 
