@@ -25,7 +25,7 @@ jobs:
         with:
           comment_tag_name: BLOG-POST-LIST
           feed_list: https://wicksipedia.com/feed.xml
-          template: "#### [{{ $title }}]({{ $url }}) $newline*{{ $description }}*$newline$newline"
+          template: "$newline#### [{{ $title }}]({{ $url }}) $newline*{{ $description }}*$newline$newline"
           date_format: "d mmm yyyy"
           commit_message: 'Updated with the latest blog posts'
           committer_username: ${{ github.repository_owner }}
@@ -38,10 +38,9 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCz-9w1yxZVXofthsmh77G1w"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           template: |
-            <tr>
-              <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-              <td><a href="$url">$title</a><br/>$date</td>
-            </tr>
+            $newline
+            <dt><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></dt>
+            <dd><a href="$url">$title</a><br/>$date</dd>
           date_format: "d mmm yyyy"
           commit_message: 'Updated with the latest youtube videos'
           committer_username: ${{ github.repository_owner }}
