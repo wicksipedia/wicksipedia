@@ -24,15 +24,8 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 
 🔗 [RSS Feed](https://wicksipedia.com/feed.xml)
 
-<!--START_SECTION:feed-->
-#### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns) 
-*Explore the pitfalls of using environment-specific branches in CI/CD pipelines and discover how trunk-based branching and binary promotion can streamline your DevOps process. Optimize your CI/CD workflow for efficiency and consistency.*
-#### [Git and diffs](https://wicksipedia.com/blog/git-and-diffs) 
-*What do you do when you are trying to work out what has happenned over the span of a few commits?*
-#### [GitHub settings as code](https://wicksipedia.com/blog/github-settings-as-code) 
-*How/why you should apply code policies to your GitHub repo's settings*
-<!--END_SECTION:feed-->
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=J96-mQSMbYI"><img width="140px" src="http://img.youtube.com/vi/J96-mQSMbYI/maxresdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=J96-mQSMbYI"><img width="140px" src="http://img.youtube.com/vi/J96-mQSMbYI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=J96-mQSMbYI">Website - custom forms or use a form service?</a><br/>22 Nov 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=h05ZuwgOa8Q"><img width="140px" src="http://img.youtube.com/vi/h05ZuwgOa8Q/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=h05ZuwgOa8Q">SSW.CleanArchitecture - reporting on test results and working with forks</a><br/>22 Nov 2023</td></tr>
