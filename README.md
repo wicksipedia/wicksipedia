@@ -24,32 +24,12 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 
 🔗 [RSS Feed](https://wicksipedia.com/feed.xml)
 
-<!-- BLOG-POST-LIST:START -->
-
-#### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns)
-27 Sep 2023 - *Explore the pitfalls of using environment-specific branches in CI/CD pipelines and discover how trunk-based branching and binary promotion can streamline your DevOps process. Optimize your CI/CD workflow for efficiency and consistency.*
-
-
-
-#### [GitHub settings as code](https://wicksipedia.com/blog/github-settings-as-code)
-13 Mar 2022 - *How/why you should apply code policies to your GitHub repo&#39;s settings*
-
-
-
-#### [Git and diffs](https://wicksipedia.com/blog/git-and-diffs)
-16 Aug 2020 - *What do you do when you are trying to work out what has happenned over the span of a few commits?*
-
-
-
-#### [Verifying your GitHub commits](https://wicksipedia.com/blog/verifying-your-github-commits)
-9 Aug 2020 - *Do you know how to sign your commits and let others know it was *actually* you who did them?*
-
-
-
-#### [Presented at Azure Sydney UG](https://wicksipedia.com/blog/presented-at-azure-sydney-ug)
-27 Apr 2019 - *I was privileged to present about Logic Apps at the Azure Sydney User Group*
-
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->#### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns)
+27 Sep 2023 - *Explore the pitfalls of using environment-specific branches in CI/CD pipelines and discover how trunk-based branching and binary promotion can streamline your DevOps process. Optimize your CI/CD workflow for efficiency and consistency.*#### [GitHub settings as code](https://wicksipedia.com/blog/github-settings-as-code)
+13 Mar 2022 - *How/why you should apply code policies to your GitHub repo&#39;s settings*#### [Git and diffs](https://wicksipedia.com/blog/git-and-diffs)
+16 Aug 2020 - *What do you do when you are trying to work out what has happenned over the span of a few commits?*#### [Verifying your GitHub commits](https://wicksipedia.com/blog/verifying-your-github-commits)
+9 Aug 2020 - *Do you know how to sign your commits and let others know it was *actually* you who did them?*#### [Presented at Azure Sydney UG](https://wicksipedia.com/blog/presented-at-azure-sydney-ug)
+27 Apr 2019 - *I was privileged to present about Logic Apps at the Azure Sydney User Group*<!-- BLOG-POST-LIST:END -->
 
 ### 🎥 Youtube Videos
 <table>
