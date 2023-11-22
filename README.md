@@ -53,16 +53,27 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 
 ### 🎥 Youtube Videos
 <table>
-<!-- YOUTUBE-VIDEO-LIST:START --><tr>
+<!-- YOUTUBE-VIDEO-LIST:START -->
+
+<tr>
   <td><a href="https://www.youtube.com/watch?v=J96-mQSMbYI"><img width="140px" src="http://img.youtube.com/vi/J96-mQSMbYI/maxresdefault.jpg"></a></td>
   <td><a href="https://www.youtube.com/watch?v=J96-mQSMbYI">Website - custom forms or use a form service?</a><br/>22 Nov 2023</td>
-</tr><tr>
+</tr>
+
+
+
+<tr>
   <td><a href="https://www.youtube.com/watch?v=h05ZuwgOa8Q"><img width="140px" src="http://img.youtube.com/vi/h05ZuwgOa8Q/maxresdefault.jpg"></a></td>
   <td><a href="https://www.youtube.com/watch?v=h05ZuwgOa8Q">SSW.CleanArchitecture - reporting on test results and working with forks</a><br/>22 Nov 2023</td>
-</tr><tr>
+</tr>
+
+
+
+<tr>
   <td><a href="https://www.youtube.com/watch?v=WsbX8xyKrjY"><img width="140px" src="http://img.youtube.com/vi/WsbX8xyKrjY/maxresdefault.jpg"></a></td>
   <td><a href="https://www.youtube.com/watch?v=WsbX8xyKrjY">SSW.CleanArchitecture | Keep your package versions consistent with Central Package Management</a><br/>21 Nov 2023</td>
 </tr>
+
 <!-- YOUTUBE-VIDEO-LIST:END -->
 </table>
 
