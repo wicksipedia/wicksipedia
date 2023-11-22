@@ -9,15 +9,34 @@ on:
     branches:
       - main
 
+permissions: 
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: JasonEtco/rss-to-readme@v2
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed-url: https://wicksipedia.com/feed.xml
-          readme-section: feed
-          max: 3 # max number of items (default 5)
-          empty-commits: false # create empty commits if no changes (default true)
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          feed_list: https://wicksipedia.com/feed.xml
+          template: "#### [{{ $title }}]({{ $url }}) $newline*{{ $description }}*$newline$newline"
+          date_format: "d mmm yyyy"
+          commit_message: 'Updated with the latest blog posts'
+          committer_username: ${{ github.repository_owner }}
+          committer_email: ${{ secrets.committer_email }}
+
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCz-9w1yxZVXofthsmh77G1w"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          template: '<tr><td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr>$newline'
+          date_format: "d mmm yyyy"
+          commit_message: 'Updated with the latest youtube videos'
+          committer_username: ${{ github.repository_owner }}
+          committer_email: ${{ secrets.committer_email }}

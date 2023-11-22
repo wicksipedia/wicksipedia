@@ -30,6 +30,14 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 #### [GitHub settings as code](https://wicksipedia.com/blog/github-settings-as-code) 
 *How/why you should apply code policies to your GitHub repo's settings*
 <!--END_SECTION:feed-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 🎥 Youtube Videos
+<table>
+<!-- YOUTUBE-VIDEO-LIST:START -->
+<!-- YOUTUBE-VIDEO-LIST:END -->
+</table>
 
 #### Stay Updated with Wicksipedia
 
