@@ -52,7 +52,7 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 
 <tr>
   <td><a href="https://www.youtube.com/watch?v=h05ZuwgOa8Q"><img width="140px" src="http://img.youtube.com/vi/h05ZuwgOa8Q/maxresdefault.jpg"></a></td>
-  <td><a href="https://www.youtube.com/watch?v=h05ZuwgOa8Q">SSW.CleanArchitecture - reporting on test results and working with forks</a><br/>22 Nov 2023</td>
+  <td><a href="https://www.youtube.com/watch?v=h05ZuwgOa8Q">SSW.CleanArchitecture - Enhancing Collaboration: Fixing &quot;Test Reporter&quot; with Forks and Pull Requests</a><br/>22 Nov 2023</td>
 </tr>
 
 <tr>
