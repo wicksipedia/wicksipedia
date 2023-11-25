@@ -26,6 +26,9 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 
 <!-- BLOG-POST-LIST:START -->
 
+#### [Optimizing Your New Mac Setup: Essential Tools and Apps](https://wicksipedia.com/blog/setting-up-a-new-mac)
+25 Nov 2023 - *Set up your new Mac for success with this curated list of tools and apps. Begin with Homebrew for installations, explore productivity boosters, and discover utilities that streamline your workflow. Enhance your MacOS experience with efficiency and ease.*
+
 #### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns)
 27 Sep 2023 - *Explore the pitfalls of using environment-specific branches in CI/CD pipelines and discover how trunk-based branching and binary promotion can streamline your DevOps process. Optimize your CI/CD workflow for efficiency and consistency.*
 
@@ -36,10 +39,7 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 16 Aug 2020 - *What do you do when you are trying to work out what has happenned over the span of a few commits?*
 
 #### [Verifying your GitHub commits](https://wicksipedia.com/blog/verifying-your-github-commits)
-9 Aug 2020 - *Do you know how to sign your commits and let others know it was *actually* you who did them?*
-
-#### [Presented at Azure Sydney UG](https://wicksipedia.com/blog/presented-at-azure-sydney-ug)
-27 Apr 2019 - *I was privileged to present about Logic Apps at the Azure Sydney User Group*<!-- BLOG-POST-LIST:END -->
+9 Aug 2020 - *Do you know how to sign your commits and let others know it was *actually* you who did them?*<!-- BLOG-POST-LIST:END -->
 
 ### 🎥 Youtube Videos
 <table>
