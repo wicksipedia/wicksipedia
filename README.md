@@ -46,6 +46,11 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <tr>
+  <td><a href="https://www.youtube.com/watch?v=5IgeudbO_q0"><img width="140px" src="http://img.youtube.com/vi/5IgeudbO_q0/maxresdefault.jpg"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=5IgeudbO_q0">SSW.Website - Configure Azure Front Door for Geo-based redirection</a><br/>28 Nov 2023</td>
+</tr>
+
+<tr>
   <td><a href="https://www.youtube.com/watch?v=J96-mQSMbYI"><img width="140px" src="http://img.youtube.com/vi/J96-mQSMbYI/maxresdefault.jpg"></a></td>
   <td><a href="https://www.youtube.com/watch?v=J96-mQSMbYI">Website - custom forms or use a form service?</a><br/>22 Nov 2023</td>
 </tr>
