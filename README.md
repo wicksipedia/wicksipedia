@@ -26,6 +26,9 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 
 <!-- BLOG-POST-LIST:START -->
 
+#### [Setting up my terminal for productivity and enjoyment with Oh My Zsh](https://wicksipedia.com/blog/terminal-setup)
+2 Dec 2023 - *Make your terminal better and easier to manage with Oh My Zsh and Antigen. Get tips on using the fast powerlevel10k theme, managing Node versions, and making &#39;ls&#39; more fun with &#39;eza&#39;. Improve your .NET coding with handy aliases. Boost your coding game with a simple, cool terminal setup.*
+
 #### [Optimizing Your New Mac Setup: Essential Tools and Apps](https://wicksipedia.com/blog/setting-up-a-new-mac)
 25 Nov 2023 - *Set up your new Mac for success with this curated list of tools and apps. Begin with Homebrew for installations, explore productivity boosters, and discover utilities that streamline your workflow. Enhance your MacOS experience with efficiency and ease.*
 
@@ -36,10 +39,7 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 13 Mar 2022 - *How/why you should apply code policies to your GitHub repo&#39;s settings*
 
 #### [Git and diffs](https://wicksipedia.com/blog/git-and-diffs)
-16 Aug 2020 - *What do you do when you are trying to work out what has happenned over the span of a few commits?*
-
-#### [Verifying your GitHub commits](https://wicksipedia.com/blog/verifying-your-github-commits)
-9 Aug 2020 - *Do you know how to sign your commits and let others know it was *actually* you who did them?*<!-- BLOG-POST-LIST:END -->
+16 Aug 2020 - *What do you do when you are trying to work out what has happenned over the span of a few commits?*<!-- BLOG-POST-LIST:END -->
 
 ### 🎥 Youtube Videos
 <table>
