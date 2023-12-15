@@ -3,8 +3,8 @@ name: Daily update
 on:
   workflow_dispatch:
   schedule:
-    # Once a day at 8 AM
-    - cron: 0 8 * * *
+    # At the start of every 4th hour - https://cron.help/#0_*/4_*_*_*
+    - cron: 0 */4 * * *
   push:
     branches:
       - main
