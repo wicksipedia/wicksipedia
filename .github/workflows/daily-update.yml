@@ -38,7 +38,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: YOUTUBE-VIDEO-LIST
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCz-9w1yxZVXofthsmh77G1w"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCz-9w1yxZVXofthsmh77G1w,https://www.youtube.com/feeds/videos.xml?playlist_id=PLpiOR7CBNvlouByIBdQP_YiGkrYqKCWgP&si=7v_2qwjkJfUGB1_2"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           template: |
             $newline
