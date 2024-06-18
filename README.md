@@ -46,23 +46,28 @@ I am a seasoned Solution Architect from SSW, a software consultancy, with a knac
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <tr>
+  <td><a href="https://www.youtube.com/watch?v=iWl11gSH5s0"><img width="140px" src="http://img.youtube.com/vi/iWl11gSH5s0/maxresdefault.jpg"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=iWl11gSH5s0">Feature Management Simplified: A Deep Dive into Feature Boards | Matt Wicks &amp; Lars Klint</a><br/>26 Apr 2024</td>
+</tr>
+
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=t8LSU7XRNzw"><img width="140px" src="http://img.youtube.com/vi/t8LSU7XRNzw/maxresdefault.jpg"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=t8LSU7XRNzw">Navigating Coding, Deployments, and Legacy Projects | Matt Wicks &amp; Ben Dechrai</a><br/>19 Apr 2024</td>
+</tr>
+
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=vTdKxGKb2hQ"><img width="140px" src="http://img.youtube.com/vi/vTdKxGKb2hQ/maxresdefault.jpg"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=vTdKxGKb2hQ">Empowering Developers in the Cloud | Matt Wicks &amp; Magnus Martensson</a><br/>12 Apr 2024</td>
+</tr>
+
+<tr>
+  <td><a href="https://www.youtube.com/watch?v=bB3wxhgWcU8"><img width="140px" src="http://img.youtube.com/vi/bB3wxhgWcU8/maxresdefault.jpg"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=bB3wxhgWcU8">Better Devex: Microsoft Dev Box and Azure Deployment Environments | Matt Wicks &amp; Isaac Levin</a><br/>29 Mar 2024</td>
+</tr>
+
+<tr>
   <td><a href="https://www.youtube.com/watch?v=5IgeudbO_q0"><img width="140px" src="http://img.youtube.com/vi/5IgeudbO_q0/maxresdefault.jpg"></a></td>
   <td><a href="https://www.youtube.com/watch?v=5IgeudbO_q0">SSW.Website - Configure Azure Front Door for Geo-based redirection</a><br/>28 Nov 2023</td>
-</tr>
-
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=J96-mQSMbYI"><img width="140px" src="http://img.youtube.com/vi/J96-mQSMbYI/maxresdefault.jpg"></a></td>
-  <td><a href="https://www.youtube.com/watch?v=J96-mQSMbYI">Website - custom forms or use a form service?</a><br/>22 Nov 2023</td>
-</tr>
-
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=h05ZuwgOa8Q"><img width="140px" src="http://img.youtube.com/vi/h05ZuwgOa8Q/maxresdefault.jpg"></a></td>
-  <td><a href="https://www.youtube.com/watch?v=h05ZuwgOa8Q">SSW.CleanArchitecture - Enhancing Collaboration: Fixing &quot;Test Reporter&quot; with Forks and Pull Requests</a><br/>22 Nov 2023</td>
-</tr>
-
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=WsbX8xyKrjY"><img width="140px" src="http://img.youtube.com/vi/WsbX8xyKrjY/maxresdefault.jpg"></a></td>
-  <td><a href="https://www.youtube.com/watch?v=WsbX8xyKrjY">SSW.CleanArchitecture | Keep your package versions consistent with Central Package Management</a><br/>21 Nov 2023</td>
 </tr><!-- YOUTUBE-VIDEO-LIST:END -->
 </table>
 
