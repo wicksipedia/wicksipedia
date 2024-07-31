@@ -6,7 +6,11 @@
 
 ---
 
-I am a seasoned Solution Architect from SSW, a software consultancy, with a knack for DevOps, Scrum, Azure, GitHub, Azure DevOps, .NET, and Angular. My mission is to leverage technology to make the world a better place for my two awesome daughters.
+I am a seasoned Solution Architect from SSW, a software consultancy, with a knack for DevOps, Scrum, Azure, GitHub, Azure DevOps, .NET, and Angular.
+
+I am also the PM for [TinaCMS](https://tina.io) the world's leading open-source, headless CMS that is powered by Markdown and GitHub.
+
+My mission is to leverage technology to make the world a better place for my two awesome daughters.
 
 ### 🎯 Quick Facts
 
