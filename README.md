@@ -1,4 +1,4 @@
-# Matt Wicks - SSW Solution Architect 👋
+# Matt Wicks - SSW Solution Architect + TinaCMS PM 👋
 
 ![Location](https://img.shields.io/badge/-Newcastle,_Australia-0891b2?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/matteightyate?logo=twitter&style=flat-square&color=0891b2)
