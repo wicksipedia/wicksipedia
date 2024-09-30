@@ -50,6 +50,11 @@ My mission is to leverage technology to make the world a better place for my two
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <tr>
+  <td><a href="https://www.youtube.com/watch?v=MTshbbBwrHw"><img width="140px" src="http://img.youtube.com/vi/MTshbbBwrHw/maxresdefault.jpg"></a></td>
+  <td><a href="https://www.youtube.com/watch?v=MTshbbBwrHw">TinaCMS - new filename config options</a><br/>30 Sep 2024</td>
+</tr>
+
+<tr>
   <td><a href="https://www.youtube.com/watch?v=iWl11gSH5s0"><img width="140px" src="http://img.youtube.com/vi/iWl11gSH5s0/maxresdefault.jpg"></a></td>
   <td><a href="https://www.youtube.com/watch?v=iWl11gSH5s0">Feature Management Simplified: A Deep Dive into Feature Boards | Matt Wicks &amp; Lars Klint</a><br/>26 Apr 2024</td>
 </tr>
@@ -67,11 +72,6 @@ My mission is to leverage technology to make the world a better place for my two
 <tr>
   <td><a href="https://www.youtube.com/watch?v=bB3wxhgWcU8"><img width="140px" src="http://img.youtube.com/vi/bB3wxhgWcU8/maxresdefault.jpg"></a></td>
   <td><a href="https://www.youtube.com/watch?v=bB3wxhgWcU8">Better Devex: Microsoft Dev Box and Azure Deployment Environments | Matt Wicks &amp; Isaac Levin</a><br/>29 Mar 2024</td>
-</tr>
-
-<tr>
-  <td><a href="https://www.youtube.com/watch?v=5IgeudbO_q0"><img width="140px" src="http://img.youtube.com/vi/5IgeudbO_q0/maxresdefault.jpg"></a></td>
-  <td><a href="https://www.youtube.com/watch?v=5IgeudbO_q0">SSW.Website - Configure Azure Front Door for Geo-based redirection</a><br/>28 Nov 2023</td>
 </tr><!-- YOUTUBE-VIDEO-LIST:END -->
 </table>
 
