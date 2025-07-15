@@ -36,7 +36,7 @@ async function fetchPlaylistVideos(apiKey, playlistId) {
   const videos = [];
 
   do {
-    const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=50&playlistId=${playlistId}&key=${apiKey}&pageToken=${nextPageToken}`;
+    const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=50&playlistId=${playlistId}&key=${apiKey}&pageToken=${nextPageToken}`;
     const response = await fetch(url);
     const data = await response.json();
 
@@ -47,9 +47,8 @@ async function fetchPlaylistVideos(apiKey, playlistId) {
     }
 
     data.items.forEach((item) => {
-      const duration = item.contentDetails.duration;
       videos.push({
-        title: `${item.snippet.title} (${duration})`,
+        title: item.snippet.title,
         url: `https://www.youtube.com/watch?v=${item.snippet.resourceId.videoId}`,
         date: new Date(item.snippet.publishedAt),
         videoId: item.snippet.resourceId.videoId,
@@ -67,7 +66,7 @@ async function fetchChannelVideos(apiKey, channelId) {
   const videos = [];
 
   do {
-    const url = `https://www.googleapis.com/youtube/v3/search?part=snippet,contentDetails&channelId=${channelId}&maxResults=50&order=date&type=video&key=${apiKey}&pageToken=${nextPageToken}`;
+    const url = `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${channelId}&maxResults=50&order=date&type=video&key=${apiKey}&pageToken=${nextPageToken}`;
     const response = await fetch(url);
     const data = await response.json();
 
@@ -78,9 +77,8 @@ async function fetchChannelVideos(apiKey, channelId) {
     }
 
     data.items.forEach((item) => {
-      const duration = item.contentDetails.duration;
       videos.push({
-        title: `${item.snippet.title} (${duration})`,
+        title: item.snippet.title,
         url: `https://www.youtube.com/watch?v=${item.id.videoId}`,
         date: new Date(item.snippet.publishedAt),
         videoId: item.id.videoId,
