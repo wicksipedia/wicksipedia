@@ -6,20 +6,16 @@ const outputPath = process.env.OUTPUT_FILE;
 const playlistIds = process.env.YOUTUBE_PLAYLIST_IDS.split(',');
 const channelIds = process.env.YOUTUBE_CHANNEL_IDS.split(',');
 
-function formatVideosToHTML(videos) {
-  return videos
+function formatVideosToMarkdownTable(videos) {
+  const header = `| Thumbnail | Title | Date |\n|---|---|---|`;
+  const rows = videos
     .map(
       (video) => `
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/${video.videoId}/maxresdefault.jpg" alt="${video.title}" width="140px" style="margin-right: 20px;">
-  <div>
-    <a href="${video.url}">${video.title}</a><br>
-    ${video.date.toDateString()}
-  </div>
-</div>
+| ![Thumbnail](https://img.youtube.com/vi/${video.videoId}/maxresdefault.jpg) | [${video.title}](${video.url}) | ${video.date.toDateString()} |
   `
     )
     .join("\n");
+  return `${header}\n${rows}`;
 }
 
 function saveVideosToFile(html, outputPath) {
@@ -101,9 +97,9 @@ async function main() {
     const filteredVideos = [...playlistVideos, ...channelVideos]
       .filter((video) => !video.title.startsWith("zz"))
       .sort((a, b) => b.date - a.date) // Sort by date (newest first)
-      .slice(0, 20);
+      .slice(0, 10);
 
-    const html = formatVideosToHTML(filteredVideos);
+    const html = formatVideosToMarkdownTable(filteredVideos);
     saveVideosToFile(html, outputPath);
   } catch (error) {
     console.error(error);
