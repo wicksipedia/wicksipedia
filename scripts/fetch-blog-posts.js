@@ -2,12 +2,12 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 import { parseStringPromise } from 'xml2js';
 
-async function fetchBlogPosts(feedUrl, outputPath) {
+async function fetchBlogPosts(feedUrl, outputPath, maxPosts) {
   const response = await fetch(feedUrl);
   const xml = await response.text();
   const json = await parseStringPromise(xml);
 
-  const posts = json.rss.channel[0].item.map(post => ({
+  const posts = json.rss.channel[0].item.slice(0, maxPosts).map(post => ({
     title: post.title[0],
     url: post.link[0],
     date: new Date(post.pubDate[0]),
@@ -30,4 +30,5 @@ ${post.date.toDateString()} - *${post.description}*
 
 const feedUrl = process.env.BLOG_FEED_URL;
 const outputPath = process.env.OUTPUT_FILE;
-fetchBlogPosts(feedUrl, outputPath).catch(console.error);
+const maxPosts = parseInt(process.env.MAX_POSTS) || 10;
+fetchBlogPosts(feedUrl, outputPath, maxPosts).catch(console.error);
