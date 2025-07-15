@@ -52,5 +52,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "Updated YouTube videos"
-          file_pattern: README.md
 
