@@ -10,9 +10,7 @@ function formatVideosToMarkdownTable(videos) {
   const header = `| Thumbnail | Title | Date |\n|---|---|---|`;
   const rows = videos
     .map(
-      (video) => `
-| ![Thumbnail](https://img.youtube.com/vi/${video.videoId}/maxresdefault.jpg) | [${video.title}](${video.url}) | ${video.date.toDateString()} |
-  `
+      (video) => `| ![Thumbnail](https://img.youtube.com/vi/${video.videoId}/maxresdefault.jpg) | [${video.title}](${video.url}) | ${video.date.toDateString()} |  `
     )
     .join("\n");
   return `${header}\n${rows}`;
