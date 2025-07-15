@@ -72,18 +72,96 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
 
 ### 🎥 Youtube Videos
 <!-- YOUTUBE-VIDEO-LIST:START -->
-| Thumbnail | Title | Date |
-|---|---|---|
-| ![Thumbnail](https://img.youtube.com/vi/hx3acbHE7uM/maxresdefault.jpg) | [🚀 High-Performance Content Management | Matt Wicks | SSW User Groups](https://www.youtube.com/watch?v=hx3acbHE7uM) | Wed Jun 11 2025 |  
-| ![Thumbnail](https://img.youtube.com/vi/FmHTq6muq-Y/maxresdefault.jpg) | [Tech News # 48 | Matt Wicks | AI, GitHub, .NET 10 Preview + Russian Influence on Chatbots](https://www.youtube.com/watch?v=FmHTq6muq-Y) | Thu May 22 2025 |  
-| ![Thumbnail](https://img.youtube.com/vi/eha7mSHgIFQ/maxresdefault.jpg) | [The best of tech at /NEW 2025 | Matt Wicks](https://www.youtube.com/watch?v=eha7mSHgIFQ) | Thu May 22 2025 |  
-| ![Thumbnail](https://img.youtube.com/vi/WrZWWFnsDOg/maxresdefault.jpg) | [The best of tech at /NEW 2025 | Matt Wicks](https://www.youtube.com/watch?v=WrZWWFnsDOg) | Thu May 22 2025 |  
-| ![Thumbnail](https://img.youtube.com/vi/MTshbbBwrHw/maxresdefault.jpg) | [TinaCMS - new filename config options](https://www.youtube.com/watch?v=MTshbbBwrHw) | Mon Sep 30 2024 |  
-| ![Thumbnail](https://img.youtube.com/vi/59G9Cd-rV9w/maxresdefault.jpg) | [Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups](https://www.youtube.com/watch?v=59G9Cd-rV9w) | Wed May 01 2024 |  
-| ![Thumbnail](https://img.youtube.com/vi/iUI_onYG6jM/maxresdefault.jpg) | [Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson](https://www.youtube.com/watch?v=iUI_onYG6jM) | Fri Apr 12 2024 |  
-| ![Thumbnail](https://img.youtube.com/vi/EjYczs7RYD8/maxresdefault.jpg) | [Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson](https://www.youtube.com/watch?v=EjYczs7RYD8) | Thu Apr 11 2024 |  
-| ![Thumbnail](https://img.youtube.com/vi/4SJ8lja5GJI/maxresdefault.jpg) | [GitHub Projects and Copilot. What's new? | Matt Wicks & Michelle "Mishmanners" Duke](https://www.youtube.com/watch?v=4SJ8lja5GJI) | Wed Mar 27 2024 |  
-| ![Thumbnail](https://img.youtube.com/vi/2cIl1IyR0jo/maxresdefault.jpg) | [Navigating Cloud Governance | Matt Wicks & Mike Benkovich](https://www.youtube.com/watch?v=2cIl1IyR0jo) | Wed Mar 27 2024 |  
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/hx3acbHE7uM/maxresdefault.jpg" alt="🚀 High-Performance Content Management | Matt Wicks | SSW User Groups" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=hx3acbHE7uM">🚀 High-Performance Content Management | Matt Wicks | SSW User Groups</a><br>
+    Wed Jun 11 2025
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/FmHTq6muq-Y/maxresdefault.jpg" alt="Tech News # 48 | Matt Wicks | AI, GitHub, .NET 10 Preview + Russian Influence on Chatbots" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=FmHTq6muq-Y">Tech News # 48 | Matt Wicks | AI, GitHub, .NET 10 Preview + Russian Influence on Chatbots</a><br>
+    Thu May 22 2025
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/eha7mSHgIFQ/maxresdefault.jpg" alt="The best of tech at /NEW 2025 | Matt Wicks" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=eha7mSHgIFQ">The best of tech at /NEW 2025 | Matt Wicks</a><br>
+    Thu May 22 2025
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/WrZWWFnsDOg/maxresdefault.jpg" alt="The best of tech at /NEW 2025 | Matt Wicks" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=WrZWWFnsDOg">The best of tech at /NEW 2025 | Matt Wicks</a><br>
+    Thu May 22 2025
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/MTshbbBwrHw/maxresdefault.jpg" alt="TinaCMS - new filename config options" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=MTshbbBwrHw">TinaCMS - new filename config options</a><br>
+    Mon Sep 30 2024
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/59G9Cd-rV9w/maxresdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=59G9Cd-rV9w">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups</a><br>
+    Wed May 01 2024
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/iUI_onYG6jM/maxresdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=iUI_onYG6jM">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson</a><br>
+    Fri Apr 12 2024
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/EjYczs7RYD8/maxresdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=EjYczs7RYD8">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson</a><br>
+    Thu Apr 11 2024
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/4SJ8lja5GJI/maxresdefault.jpg" alt="GitHub Projects and Copilot. What's new? | Matt Wicks & Michelle "Mishmanners" Duke" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=4SJ8lja5GJI">GitHub Projects and Copilot. What's new? | Matt Wicks & Michelle "Mishmanners" Duke</a><br>
+    Wed Mar 27 2024
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/2cIl1IyR0jo/maxresdefault.jpg" alt="Navigating Cloud Governance | Matt Wicks & Mike Benkovich" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=2cIl1IyR0jo">Navigating Cloud Governance | Matt Wicks & Mike Benkovich</a><br>
+    Wed Mar 27 2024
+  </p>
+</div>
+      
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 
