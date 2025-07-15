@@ -71,7 +71,6 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
 <!-- BLOG-POST-LIST:END -->
 
 ### 🎥 Youtube Videos
-<table>
 <!-- YOUTUBE-VIDEO-LIST:START -->
 | Thumbnail | Title | Date |
 |---|---|---|
@@ -86,7 +85,7 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
 | ![Thumbnail](https://img.youtube.com/vi/4SJ8lja5GJI/maxresdefault.jpg) | [GitHub Projects and Copilot. What's new? | Matt Wicks & Michelle "Mishmanners" Duke](https://www.youtube.com/watch?v=4SJ8lja5GJI) | Wed Mar 27 2024 |  
 | ![Thumbnail](https://img.youtube.com/vi/2cIl1IyR0jo/maxresdefault.jpg) | [Navigating Cloud Governance | Matt Wicks & Mike Benkovich](https://www.youtube.com/watch?v=2cIl1IyR0jo) | Wed Mar 27 2024 |  
 <!-- YOUTUBE-VIDEO-LIST:END -->
-</table>
+
 
 ### 🛠️ Technologies & Tools
 
