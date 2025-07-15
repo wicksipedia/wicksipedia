@@ -1,17 +1,24 @@
-import fetch from 'node-fetch';
-import fs from 'fs';
+import fetch from "node-fetch";
+import fs from "fs";
 
 function formatVideosToHTML(videos) {
-  return videos.map(video => `
-    <tr>
-      <td><a href="${video.url}"><img width="140px" src="http://img.youtube.com/vi/${video.videoId}/maxresdefault.jpg"></a></td>
-      <td><a href="${video.url}">${video.title}</a><br/>${video.date.toDateString()}</td>
-    </tr>
-  `).join('\n');
+  return videos
+    .map(
+      (video) => `
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/${video.videoId}/maxresdefault.jpg" alt="${video.title}" width="140px" style="margin-right: 20px;">
+  <div>
+    <a href="${video.url}">${video.title}</a><br>
+    ${video.date.toDateString()}
+  </div>
+</div>
+  `
+    )
+    .join("\n");
 }
 
 function saveVideosToFile(html, outputPath) {
-  const existingContent = fs.readFileSync(outputPath, 'utf-8');
+  const existingContent = fs.readFileSync(outputPath, "utf-8");
   const updatedContent = existingContent.replace(
     /<!-- YOUTUBE-VIDEO-LIST:START -->[\s\S]*?<!-- YOUTUBE-VIDEO-LIST:END -->/,
     `<!-- YOUTUBE-VIDEO-LIST:START -->\n${html}\n<!-- YOUTUBE-VIDEO-LIST:END -->`
@@ -20,7 +27,7 @@ function saveVideosToFile(html, outputPath) {
 }
 
 async function fetchPlaylistVideos(apiKey, playlistId) {
-  let nextPageToken = '';
+  let nextPageToken = "";
   const videos = [];
 
   do {
@@ -28,23 +35,29 @@ async function fetchPlaylistVideos(apiKey, playlistId) {
     const response = await fetch(url);
     const data = await response.json();
 
-    data.items.forEach(item => {
+    if (data.error) {
+      throw new Error(`YouTube API error: ${data.error.message}`, {
+        cause: data.error,
+      });
+    }
+
+    data.items.forEach((item) => {
       videos.push({
         title: item.snippet.title,
         url: `https://www.youtube.com/watch?v=${item.snippet.resourceId.videoId}`,
         date: new Date(item.snippet.publishedAt),
-        videoId: item.snippet.resourceId.videoId
+        videoId: item.snippet.resourceId.videoId,
       });
     });
 
-    nextPageToken = data.nextPageToken || '';
+    nextPageToken = data.nextPageToken || "";
   } while (nextPageToken);
 
   return videos;
 }
 
 async function fetchChannelVideos(apiKey, channelId) {
-  let nextPageToken = '';
+  let nextPageToken = "";
   const videos = [];
 
   do {
@@ -52,16 +65,22 @@ async function fetchChannelVideos(apiKey, channelId) {
     const response = await fetch(url);
     const data = await response.json();
 
-    data.items.forEach(item => {
+    if (data.error) {
+      throw new Error(`YouTube API error: ${data.error.message}`, {
+        cause: data.error,
+      });
+    }
+
+    data.items.forEach((item) => {
       videos.push({
         title: item.snippet.title,
         url: `https://www.youtube.com/watch?v=${item.id.videoId}`,
         date: new Date(item.snippet.publishedAt),
-        videoId: item.id.videoId
+        videoId: item.id.videoId,
       });
     });
 
-    nextPageToken = data.nextPageToken || '';
+    nextPageToken = data.nextPageToken || "";
   } while (nextPageToken);
 
   return videos;
@@ -71,16 +90,16 @@ async function main() {
   try {
     const [playlistVideos, channelVideos] = await Promise.all([
       fetchPlaylistVideos(apiKey, playlistId),
-      fetchChannelVideos(apiKey, channelId)
+      fetchChannelVideos(apiKey, channelId),
     ]);
 
     const aggregatedVideos = [...playlistVideos, ...channelVideos];
-    const filteredVideos = aggregatedVideos.filter(video => !video.title.startsWith('zz'));
+    const filteredVideos = aggregatedVideos.filter(
+      (video) => !video.title.startsWith("zz")
+    );
     filteredVideos.sort((a, b) => b.date - a.date); // Sort by date (newest first)
 
-    console.log('videos', filteredVideos);
-
-    const html = formatVideosToHTML(filteredVideos);
+    const html = formatVideosToHTML(filteredVideos.slice(0, 20));
     saveVideosToFile(html, outputPath);
   } catch (error) {
     console.error(error);
@@ -88,8 +107,8 @@ async function main() {
 }
 
 const apiKey = process.env.YOUTUBE_API_KEY;
-const playlistId = 'PLpiOR7CBNvlouByIBdQP_YiGkrYqKCWgP';
-const channelId = 'UCz-9w1yxZVXofthsmh77G1w';
+const playlistId = "PLpiOR7CBNvlouByIBdQP_YiGkrYqKCWgP";
+const channelId = "UCz-9w1yxZVXofthsmh77G1w";
 const outputPath = process.env.OUTPUT_FILE;
 
 main();
