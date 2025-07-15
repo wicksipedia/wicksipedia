@@ -5,6 +5,7 @@
   "main": "fetch-youtube-videos.js",
   "type": "module",
   "scripts": {
+    "fetch-blog-posts": "node scripts/fetch-blog-posts.js",
     "fetch-youtube-videos": "node scripts/fetch-youtube-videos.js"
   },
   "dependencies": {

@@ -20,20 +20,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull in blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: BLOG-POST-LIST
-          feed_list: https://wicksipedia.com/feed.xml
-          template: |
-            $newline
-            #### [$title]($url)
-            $date - *$description*
-          date_format: "d mmm yyyy"
-          commit_message: 'Updated with the latest blog posts'
-          committer_username: ${{ github.repository_owner }}
-          committer_email: ${{ secrets.committer_email }}
-
       - uses: actions/setup-node@v4
         with:
           node-version-file: .nvmrc
@@ -43,6 +29,12 @@ jobs:
           package_json_file: package.json
           run_install: true
 
+      - name: Fetch and update blog posts
+        run: pnpm run fetch-blog-posts
+        env:
+          BLOG_FEED_URL: https://wicksipedia.com/feed.xml
+          OUTPUT_FILE: ./README.md
+
       - name: Fetch and sort YouTube videos
         run: pnpm run fetch-youtube-videos
         env:
@@ -51,5 +43,5 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v6
         with:
-          commit_message: "Updated YouTube videos"
+          commit_message: "Updated README"
 

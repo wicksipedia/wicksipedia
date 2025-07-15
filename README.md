@@ -31,19 +31,44 @@ My mission is to leverage technology to make the world a better place for my two
 <!-- BLOG-POST-LIST:START -->
 
 #### [Setting up my terminal for productivity and enjoyment with Oh My Zsh](https://wicksipedia.com/blog/terminal-setup)
-2 Dec 2023 - *Make your terminal better and easier to manage with Oh My Zsh and Antigen. Get tips on using the fast powerlevel10k theme, managing Node versions, and making &#39;ls&#39; more fun with &#39;eza&#39;. Improve your .NET coding with handy aliases. Boost your coding game with a simple, cool terminal setup.*
+Sat Dec 02 2023 - *Make your terminal better and easier to manage with Oh My Zsh and Antigen. Get tips on using the fast powerlevel10k theme, managing Node versions, and making 'ls' more fun with 'eza'. Improve your .NET coding with handy aliases. Boost your coding game with a simple, cool terminal setup.*
+  
+
 
 #### [Optimizing Your New Mac Setup: Essential Tools and Apps](https://wicksipedia.com/blog/setting-up-a-new-mac)
-25 Nov 2023 - *Set up your new Mac for success with this curated list of tools and apps. Begin with Homebrew for installations, explore productivity boosters, and discover utilities that streamline your workflow. Enhance your MacOS experience with efficiency and ease.*
+Sat Nov 25 2023 - *Set up your new Mac for success with this curated list of tools and apps. Begin with Homebrew for installations, explore productivity boosters, and discover utilities that streamline your workflow. Enhance your MacOS experience with efficiency and ease.*
+  
+
 
 #### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns)
-27 Sep 2023 - *Explore the pitfalls of using environment-specific branches in CI/CD pipelines and discover how trunk-based branching and binary promotion can streamline your DevOps process. Optimize your CI/CD workflow for efficiency and consistency.*
+Wed Sep 27 2023 - *Explore the pitfalls of using environment-specific branches in CI/CD pipelines and discover how trunk-based branching and binary promotion can streamline your DevOps process. Optimize your CI/CD workflow for efficiency and consistency.*
+  
+
 
 #### [GitHub settings as code](https://wicksipedia.com/blog/github-settings-as-code)
-13 Mar 2022 - *How/why you should apply code policies to your GitHub repo&#39;s settings*
+Sun Mar 13 2022 - *How/why you should apply code policies to your GitHub repo's settings*
+  
+
 
 #### [Git and diffs](https://wicksipedia.com/blog/git-and-diffs)
-16 Aug 2020 - *What do you do when you are trying to work out what has happenned over the span of a few commits?*<!-- BLOG-POST-LIST:END -->
+Sun Aug 16 2020 - *What do you do when you are trying to work out what has happenned over the span of a few commits?*
+  
+
+
+#### [Verifying your GitHub commits](https://wicksipedia.com/blog/verifying-your-github-commits)
+Sun Aug 09 2020 - *Do you know how to sign your commits and let others know it was *actually* you who did them?*
+  
+
+
+#### [Presented at Azure Sydney UG](https://wicksipedia.com/blog/presented-at-azure-sydney-ug)
+Sat Apr 27 2019 - *I was privileged to present about Logic Apps at the Azure Sydney User Group*
+  
+
+
+#### [Going on the road!](https://wicksipedia.com/blog/going-on-the-road)
+Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a serverless future! Excitement!*
+  
+<!-- BLOG-POST-LIST:END -->
 
 ### 🎥 Youtube Videos
 <table>
