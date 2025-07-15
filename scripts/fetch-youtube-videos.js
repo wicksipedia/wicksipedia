@@ -1,6 +1,11 @@
 import fetch from "node-fetch";
 import fs from "fs";
 
+const apiKey = process.env.YOUTUBE_API_KEY;
+const outputPath = process.env.OUTPUT_FILE;
+const playlistIds = process.env.YOUTUBE_PLAYLIST_IDS.split(',');
+const channelIds = process.env.YOUTUBE_CHANNEL_IDS.split(',');
+
 function formatVideosToHTML(videos) {
   return videos
     .map(
@@ -89,26 +94,20 @@ async function fetchChannelVideos(apiKey, channelId) {
 async function main() {
   try {
     const [playlistVideos, channelVideos] = await Promise.all([
-      fetchPlaylistVideos(apiKey, playlistId),
-      fetchChannelVideos(apiKey, channelId),
+      ...playlistIds.map((id) => fetchPlaylistVideos(apiKey, id)),
+      ...channelIds.map((id) => fetchChannelVideos(apiKey, id)),
     ]);
 
-    const aggregatedVideos = [...playlistVideos, ...channelVideos];
-    const filteredVideos = aggregatedVideos.filter(
-      (video) => !video.title.startsWith("zz")
-    );
-    filteredVideos.sort((a, b) => b.date - a.date); // Sort by date (newest first)
+    const filteredVideos = [...playlistVideos, ...channelVideos]
+      .filter((video) => !video.title.startsWith("zz"))
+      .sort((a, b) => b.date - a.date) // Sort by date (newest first)
+      .slice(0, 20);
 
-    const html = formatVideosToHTML(filteredVideos.slice(0, 20));
+    const html = formatVideosToHTML(filteredVideos);
     saveVideosToFile(html, outputPath);
   } catch (error) {
     console.error(error);
   }
 }
-
-const apiKey = process.env.YOUTUBE_API_KEY;
-const playlistId = "PLpiOR7CBNvlouByIBdQP_YiGkrYqKCWgP";
-const channelId = "UCz-9w1yxZVXofthsmh77G1w";
-const outputPath = process.env.OUTPUT_FILE;
 
 main();

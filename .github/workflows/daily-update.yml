@@ -38,10 +38,14 @@ jobs:
       - name: Fetch and sort YouTube videos
         run: pnpm run fetch-youtube-videos
         env:
+          YOUTUBE_CHANNEL_IDS: UCz-9w1yxZVXofthsmh77G1w
+          YOUTUBE_PLAYLIST_IDS: PLpiOR7CBNvlouByIBdQP_YiGkrYqKCWgP
           OUTPUT_FILE: ./README.md
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
       - uses: stefanzweifel/git-auto-commit-action@v6
         with:
+          commit_user_name: Matt Wicks
+          commit_user_email: wicksipedia@users.noreply.github.com
           commit_message: "Updated README"
 
