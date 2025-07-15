@@ -34,19 +34,23 @@ jobs:
           committer_username: ${{ github.repository_owner }}
           committer_email: ${{ secrets.committer_email }}
 
-      - name: Pull in youtube videos
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/setup-node@v4
         with:
-          comment_tag_name: YOUTUBE-VIDEO-LIST
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCz-9w1yxZVXofthsmh77G1w,https://www.youtube.com/feeds/videos.xml?playlist_id=PLpiOR7CBNvlouByIBdQP_YiGkrYqKCWgP&si=7v_2qwjkJfUGB1_2"
-          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-          template: |
-            $newline
-            <tr>
-              <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
-              <td><a href="$url">$title</a><br/>$date</td>
-            </tr>
-          date_format: "d mmm yyyy"
-          commit_message: 'Updated with the latest youtube videos'
-          committer_username: ${{ github.repository_owner }}
-          committer_email: ${{ secrets.committer_email }}
+          node-version-file: .nvmrc
+
+      - uses: pnpm/action-setup@v4
+        with:
+          package_json_file: package.json
+          run_install: true
+
+      - name: Fetch and sort YouTube videos
+        run: pnpm run fetch-youtube-videos
+        env:
+          OUTPUT_FILE: ./README.md
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Updated YouTube videos"
+          file_pattern: README.md
+
