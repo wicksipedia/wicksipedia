@@ -81,7 +81,7 @@ My mission is to leverage technology to make the world a better place for my two
 
     <tr>
       <td><a href="https://www.youtube.com/watch?v=59G9Cd-rV9w"><img width="140px" src="http://img.youtube.com/vi/59G9Cd-rV9w/maxresdefault.jpg"></a></td>
-      <td><a href="https://www.youtube.com/watch?v=59G9Cd-rV9w">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups</a><br/>Thu May 02 2024</td>
+      <td><a href="https://www.youtube.com/watch?v=59G9Cd-rV9w">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups</a><br/>Wed May 01 2024</td>
     </tr>
   
 
@@ -93,7 +93,7 @@ My mission is to leverage technology to make the world a better place for my two
 
     <tr>
       <td><a href="https://www.youtube.com/watch?v=EjYczs7RYD8"><img width="140px" src="http://img.youtube.com/vi/EjYczs7RYD8/maxresdefault.jpg"></a></td>
-      <td><a href="https://www.youtube.com/watch?v=EjYczs7RYD8">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson</a><br/>Fri Apr 12 2024</td>
+      <td><a href="https://www.youtube.com/watch?v=EjYczs7RYD8">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson</a><br/>Thu Apr 11 2024</td>
     </tr>
   
 
