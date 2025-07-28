@@ -74,6 +74,15 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/AvwPyTKdDE4/maxresdefault.jpg" alt="Private video" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=AvwPyTKdDE4">Private video</a><br>
+    Mon Jul 28 2025
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
   <img src="https://img.youtube.com/vi/hx3acbHE7uM/maxresdefault.jpg" alt="🚀 High-Performance Content Management | Matt Wicks | SSW User Groups" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=hx3acbHE7uM">🚀 High-Performance Content Management | Matt Wicks | SSW User Groups</a><br>
@@ -149,15 +158,6 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
   <img src="https://img.youtube.com/vi/4SJ8lja5GJI/maxresdefault.jpg" alt="GitHub Projects and Copilot. What's new? | Matt Wicks & Michelle "Mishmanners" Duke" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=4SJ8lja5GJI">GitHub Projects and Copilot. What's new? | Matt Wicks & Michelle "Mishmanners" Duke</a><br>
-    Wed Mar 27 2024
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/2cIl1IyR0jo/maxresdefault.jpg" alt="Navigating Cloud Governance | Matt Wicks & Mike Benkovich" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=2cIl1IyR0jo">Navigating Cloud Governance | Matt Wicks & Mike Benkovich</a><br>
     Wed Mar 27 2024
   </p>
 </div>
