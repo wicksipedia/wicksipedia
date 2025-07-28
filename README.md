@@ -74,9 +74,9 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/AvwPyTKdDE4/maxresdefault.jpg" alt="Private video" width="140px">
+  <img src="https://img.youtube.com/vi/AvwPyTKdDE4/maxresdefault.jpg" alt="Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025" width="140px">
   <p>
-    <a href="https://www.youtube.com/watch?v=AvwPyTKdDE4">Private video</a><br>
+    <a href="https://www.youtube.com/watch?v=AvwPyTKdDE4">Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025</a><br>
     Mon Jul 28 2025
   </p>
 </div>
