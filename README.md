@@ -83,9 +83,9 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/BrSo-4v7_Xc/maxresdefault.jpg" alt="Private video" width="140px">
+  <img src="https://img.youtube.com/vi/BrSo-4v7_Xc/maxresdefault.jpg" alt="Ransomware Drills & IR Plans: How Ready Is Your Org? | Matt WIcks & Kat McCrabb | Slash New 2025" width="140px">
   <p>
-    <a href="https://www.youtube.com/watch?v=BrSo-4v7_Xc">Private video</a><br>
+    <a href="https://www.youtube.com/watch?v=BrSo-4v7_Xc">Ransomware Drills & IR Plans: How Ready Is Your Org? | Matt WIcks & Kat McCrabb | Slash New 2025</a><br>
     Wed Sep 10 2025
   </p>
 </div>
