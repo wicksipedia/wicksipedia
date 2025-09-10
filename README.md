@@ -74,6 +74,24 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/2DQ7_ocNkTI/maxresdefault.jpg" alt="Private video" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=2DQ7_ocNkTI">Private video</a><br>
+    Wed Sep 10 2025
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/BrSo-4v7_Xc/maxresdefault.jpg" alt="Private video" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=BrSo-4v7_Xc">Private video</a><br>
+    Wed Sep 10 2025
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
   <img src="https://img.youtube.com/vi/AvwPyTKdDE4/maxresdefault.jpg" alt="Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=AvwPyTKdDE4">Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025</a><br>
@@ -141,24 +159,6 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
   <p>
     <a href="https://www.youtube.com/watch?v=iUI_onYG6jM">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson</a><br>
     Fri Apr 12 2024
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/EjYczs7RYD8/maxresdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=EjYczs7RYD8">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson</a><br>
-    Thu Apr 11 2024
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/4SJ8lja5GJI/maxresdefault.jpg" alt="GitHub Projects and Copilot. What's new? | Matt Wicks & Michelle "Mishmanners" Duke" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=4SJ8lja5GJI">GitHub Projects and Copilot. What's new? | Matt Wicks & Michelle "Mishmanners" Duke</a><br>
-    Wed Mar 27 2024
   </p>
 </div>
       
