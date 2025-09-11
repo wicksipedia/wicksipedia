@@ -74,9 +74,9 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/2DQ7_ocNkTI/maxresdefault.jpg" alt="Private video" width="140px">
+  <img src="https://img.youtube.com/vi/2DQ7_ocNkTI/maxresdefault.jpg" alt="Mastering Solution Architecture | John Brondum & Matt Wicks | Slash New 2025" width="140px">
   <p>
-    <a href="https://www.youtube.com/watch?v=2DQ7_ocNkTI">Private video</a><br>
+    <a href="https://www.youtube.com/watch?v=2DQ7_ocNkTI">Mastering Solution Architecture | John Brondum & Matt Wicks | Slash New 2025</a><br>
     Wed Sep 10 2025
   </p>
 </div>
