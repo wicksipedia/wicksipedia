@@ -74,6 +74,15 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/TP28BgSsAe0/maxresdefault.jpg" alt="Skid mark waiting to happen" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=TP28BgSsAe0">Skid mark waiting to happen</a><br>
+    Thu Sep 25 2025
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
   <img src="https://img.youtube.com/vi/2DQ7_ocNkTI/maxresdefault.jpg" alt="Mastering Solution Architecture | John Brondum & Matt Wicks | Slash New 2025" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=2DQ7_ocNkTI">Mastering Solution Architecture | John Brondum & Matt Wicks | Slash New 2025</a><br>
@@ -150,15 +159,6 @@ Tue Feb 26 2019 - *I’m going on tour, presenting on Logic Apps - Gateway to a 
   <p>
     <a href="https://www.youtube.com/watch?v=59G9Cd-rV9w">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups</a><br>
     Wed May 01 2024
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/iUI_onYG6jM/maxresdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=iUI_onYG6jM">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson</a><br>
-    Fri Apr 12 2024
   </p>
 </div>
       
