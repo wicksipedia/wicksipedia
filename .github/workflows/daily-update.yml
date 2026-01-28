@@ -32,7 +32,7 @@ jobs:
       - name: Fetch and update blog posts
         run: pnpm run fetch-blog-posts
         env:
-          BLOG_FEED_URL: https://wicksipedia.com/feed.xml
+          BLOG_FEED_URL: https://wicksipedia.com/rss.xml
           OUTPUT_FILE: ./README.md
 
       - name: Fetch and sort YouTube videos
