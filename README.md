@@ -30,8 +30,18 @@ My mission is to leverage technology to make the world a better place for my two
 
 <!-- BLOG-POST-LIST:START -->
 
+#### [Your Mac Can See You Slouching](https://wicksipedia.com/blog/posturr-posture-monitoring/)
+Mon Feb 16 2026 - *My back hurts. I slouch at my desk all day and forget to sit up straight. Posturr blurs your screen when your posture drops, which turns out to be the nudge I actually needed.*
+  
+
+
 #### [Speeding Up My Zsh Startup by 81%: From 640ms to 120ms](https://wicksipedia.com/blog/speeding-up-zsh-startup/)
 Mon Feb 16 2026 - *My Zsh shell took 640ms to start. After profiling with zprof and migrating from Antigen to Zinit, I cut it down to 120ms. Here is exactly how.*
+  
+
+
+#### [Stop Babysitting Your Terminal: Audio Notifications for AI Coding Agents](https://wicksipedia.com/blog/peon-ping-setup/)
+Sun Feb 15 2026 - *Context switching kills productivity. When AI agents need permissions, that time is wasted. Peon-ping brings Warcraft nostalgia to your terminal with audio notifications that let you know when work is done.*
   
 
 
@@ -67,16 +77,6 @@ Sun Aug 16 2020 - *What do you do when you are trying to work out what has happe
 
 #### [Verifying your GitHub commits](https://wicksipedia.com/blog/verifying-your-github-commits/)
 Sun Aug 09 2020 - *Do you know how to sign your commits and let others know it was *actually* you who did them?*
-  
-
-
-#### [Presented at Azure Sydney UG](https://wicksipedia.com/blog/presented-at-azure-sydney-ug/)
-Sat Apr 27 2019 - *I was privileged to present about Logic Apps at the Azure Sydney User Group*
-  
-
-
-#### [Going on the road!](https://wicksipedia.com/blog/going-on-the-road/)
-Tue Feb 26 2019 - *I'm going on tour, presenting on Logic Apps - Gateway to a serverless future! Excitement!*
   
 <!-- BLOG-POST-LIST:END -->
 
