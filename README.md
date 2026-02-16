@@ -30,6 +30,11 @@ My mission is to leverage technology to make the world a better place for my two
 
 <!-- BLOG-POST-LIST:START -->
 
+#### [Speeding Up My Zsh Startup by 81%: From 640ms to 120ms](https://wicksipedia.com/blog/speeding-up-zsh-startup/)
+Mon Feb 16 2026 - *My Zsh shell took 640ms to start. After profiling with zprof and migrating from Antigen to Zinit, I cut it down to 120ms. Here is exactly how.*
+  
+
+
 #### [The Future of Software Engineering Is Not What You Think](https://wicksipedia.com/blog/the-future-of-software-engineering-is-not-what-you-think/)
 Thu Jan 22 2026 - *Thoughts on AI's impact on software engineering roles and why the "RIP SWEs" narrative misses the mark*
   
