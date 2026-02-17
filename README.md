@@ -46,37 +46,37 @@ Sun Feb 15 2026 - *Context switching kills productivity. When AI agents need per
 
 
 #### [The Future of Software Engineering Is Not What You Think](https://wicksipedia.com/blog/the-future-of-software-engineering-is-not-what-you-think/)
-Thu Jan 22 2026 - *Thoughts on AI's impact on software engineering roles and why the "RIP SWEs" narrative misses the mark*
+Thu Jan 22 2026 - *Explore how AI is reshaping software engineering in 2026 and why developer roles are changing, not disappearing. The "RIP SWEs" narrative misses the mark.*
   
 
 
 #### [Setting up my terminal for productivity and enjoyment with Oh My Zsh](https://wicksipedia.com/blog/terminal-setup/)
-Sat Dec 02 2023 - *Make your terminal better and easier to manage with Oh My Zsh and Antigen. Get tips on using the fast powerlevel10k theme, managing Node versions, and making 'ls' more fun with 'eza'. Improve your .NET coding with handy aliases. Boost your coding game with a simple, cool terminal setup.*
+Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10k theme, and essential tools. Learn to manage Node versions and enhance your workflow efficiency.*
   
 
 
 #### [Optimizing Your New Mac Setup: Essential Tools and Apps](https://wicksipedia.com/blog/setting-up-a-new-mac/)
-Sat Nov 25 2023 - *Set up your new Mac for success with this curated list of tools and apps. Begin with Homebrew for installations, explore productivity boosters, and discover utilities that streamline your workflow. Enhance your MacOS experience with efficiency and ease.*
+Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with Homebrew, discover productivity boosters, and enhance your MacOS workflow with efficiency.*
   
 
 
 #### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns/)
-Sun Sep 25 2022 - *Explore the pitfalls of using environment-specific branches in CI/CD pipelines and discover how trunk-based branching and binary promotion can streamline your DevOps process. Optimize your CI/CD workflow for efficiency and consistency.*
+Sun Sep 25 2022 - *Explore CI/CD pitfalls of environment-specific branches and discover how trunk-based development and binary promotion streamline your DevOps workflow.*
   
 
 
-#### [GitHub settings as code](https://wicksipedia.com/blog/github-settings-as-code/)
-Sun Mar 13 2022 - *How/why you should apply code policies to your GitHub repo's settings*
+#### [GitHub Repository Settings as Code: Automate Branch Protection](https://wicksipedia.com/blog/github-settings-as-code/)
+Sun Mar 13 2022 - *Codify your GitHub repository settings to streamline configuration, track changes, and enforce branch protection policies without manual admin access.*
   
 
 
-#### [Git and diffs](https://wicksipedia.com/blog/git-and-diffs/)
-Sun Aug 16 2020 - *What do you do when you are trying to work out what has happenned over the span of a few commits?*
+#### [How to Compare Git Diffs Across Multiple Commits in Git](https://wicksipedia.com/blog/git-and-diffs/)
+Sun Aug 16 2020 - *Learn how to diff changes across multiple commits in Git and Azure DevOps. Compare file changes over time with these practical diffing techniques and examples.*
   
 
 
-#### [Verifying your GitHub commits](https://wicksipedia.com/blog/verifying-your-github-commits/)
-Sun Aug 09 2020 - *Do you know how to sign your commits and let others know it was *actually* you who did them?*
+#### [How to Sign and Verify Your GitHub Commits with GPG Keys](https://wicksipedia.com/blog/verifying-your-github-commits/)
+Sun Aug 09 2020 - *Learn to sign your GitHub commits with GPG for verified authenticity. Step-by-step security guide to secure commits and prove they're actually from you.*
   
 <!-- BLOG-POST-LIST:END -->
 
