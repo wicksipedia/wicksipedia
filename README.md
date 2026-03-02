@@ -30,6 +30,11 @@ My mission is to leverage technology to make the world a better place for my two
 
 <!-- BLOG-POST-LIST:START -->
 
+#### [It Does What It Says on the Tin: Why Naming Matters More with AI](https://wicksipedia.com/blog/it-does-what-it-says-on-the-tin/)
+Mon Mar 02 2026 - *When your function name lies, developers get confused. When AI reads that lie, it builds on it confidently. A lesson that applies way beyond code.*
+  
+
+
 #### [Your Mac Can See You Slouching](https://wicksipedia.com/blog/posturr-posture-monitoring/)
 Mon Feb 16 2026 - *My back hurts. I slouch at my desk all day and forget to sit up straight. Posturr blurs your screen when your posture drops, which turns out to be the nudge I actually needed.*
   
@@ -72,11 +77,6 @@ Sun Mar 13 2022 - *Codify your GitHub repository settings to streamline configur
 
 #### [How to Compare Git Diffs Across Multiple Commits in Git](https://wicksipedia.com/blog/git-and-diffs/)
 Sun Aug 16 2020 - *Learn how to diff changes across multiple commits in Git and Azure DevOps. Compare file changes over time with these practical diffing techniques and examples.*
-  
-
-
-#### [How to Sign and Verify Your GitHub Commits with GPG Keys](https://wicksipedia.com/blog/verifying-your-github-commits/)
-Sun Aug 09 2020 - *Learn to sign your GitHub commits with GPG for verified authenticity. Step-by-step security guide to secure commits and prove they're actually from you.*
   
 <!-- BLOG-POST-LIST:END -->
 
