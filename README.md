@@ -30,6 +30,11 @@ My mission is to leverage technology to make the world a better place for my two
 
 <!-- BLOG-POST-LIST:START -->
 
+#### [My Fast Zsh Setup Without Oh My Zsh (But With Its Best Plugins)](https://wicksipedia.com/blog/modern-zsh-setup/)
+Thu Mar 05 2026 - *A modern Zsh config that cherry-picks the best Oh My Zsh plugins via Zinit, adds Starship, fnm, zoxide, and Atuin, and starts in 120ms. Full .zshrc included.*
+  
+
+
 #### [It Does What It Says on the Tin: Why Naming Matters More with AI](https://wicksipedia.com/blog/it-does-what-it-says-on-the-tin/)
 Mon Mar 02 2026 - *When your function name lies, developers get confused. When AI reads that lie, it builds on it confidently. A lesson that applies way beyond code.*
   
@@ -72,11 +77,6 @@ Sun Sep 25 2022 - *Explore CI/CD pitfalls of environment-specific branches and d
 
 #### [GitHub Repository Settings as Code: Automate Branch Protection](https://wicksipedia.com/blog/github-settings-as-code/)
 Sun Mar 13 2022 - *Codify your GitHub repository settings to streamline configuration, track changes, and enforce branch protection policies without manual admin access.*
-  
-
-
-#### [How to Compare Git Diffs Across Multiple Commits in Git](https://wicksipedia.com/blog/git-and-diffs/)
-Sun Aug 16 2020 - *Learn how to diff changes across multiple commits in Git and Azure DevOps. Compare file changes over time with these practical diffing techniques and examples.*
   
 <!-- BLOG-POST-LIST:END -->
 
