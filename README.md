@@ -35,6 +35,11 @@ Thu Mar 05 2026 - *A modern Zsh config that cherry-picks the best Oh My Zsh plug
   
 
 
+#### [One CLI to Rule npm, yarn, pnpm, and bun](https://wicksipedia.com/blog/ni-universal-package-manager/)
+Thu Mar 05 2026 - *Juggling npm, yarn, pnpm, and bun across projects? ni detects your package manager and runs the right command. Here's my setup.*
+  
+
+
 #### [It Does What It Says on the Tin: Why Naming Matters More with AI](https://wicksipedia.com/blog/it-does-what-it-says-on-the-tin/)
 Mon Mar 02 2026 - *When your function name lies, developers get confused. When AI reads that lie, it builds on it confidently. A lesson that applies way beyond code.*
   
@@ -72,11 +77,6 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
 
 #### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns/)
 Sun Sep 25 2022 - *Explore CI/CD pitfalls of environment-specific branches and discover how trunk-based development and binary promotion streamline your DevOps workflow.*
-  
-
-
-#### [GitHub Repository Settings as Code: Automate Branch Protection](https://wicksipedia.com/blog/github-settings-as-code/)
-Sun Mar 13 2022 - *Codify your GitHub repository settings to streamline configuration, track changes, and enforce branch protection policies without manual admin access.*
   
 <!-- BLOG-POST-LIST:END -->
 
