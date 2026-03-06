@@ -30,6 +30,11 @@ My mission is to leverage technology to make the world a better place for my two
 
 <!-- BLOG-POST-LIST:START -->
 
+#### [Git Worktrees Are Great Until You Forget Which One You're Running](https://wicksipedia.com/blog/git-worktrees-are-great-until-you-forget-which-one-youre-running/)
+Fri Mar 06 2026 - *My code changes weren't showing up. Turns out I was running the app from the wrong worktree. So I built a fzf plugin to fix that.*
+  
+
+
 #### [My Fast Zsh Setup Without Oh My Zsh (But With Its Best Plugins)](https://wicksipedia.com/blog/modern-zsh-setup/)
 Thu Mar 05 2026 - *A modern Zsh config that cherry-picks the best Oh My Zsh plugins via Zinit, adds Starship, fnm, zoxide, and Atuin, and starts in 120ms. Full .zshrc included.*
   
@@ -72,11 +77,6 @@ Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10
 
 #### [Optimizing Your New Mac Setup: Essential Tools and Apps](https://wicksipedia.com/blog/setting-up-a-new-mac/)
 Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with Homebrew, discover productivity boosters, and enhance your MacOS workflow with efficiency.*
-  
-
-
-#### [The downfalls of environment branching patterns](https://wicksipedia.com/blog/downfalls-of-environment-branching-patterns/)
-Sun Sep 25 2022 - *Explore CI/CD pitfalls of environment-specific branches and discover how trunk-based development and binary promotion streamline your DevOps workflow.*
   
 <!-- BLOG-POST-LIST:END -->
 
