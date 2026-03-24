@@ -11,7 +11,7 @@ function formatVideosToHTML(videos) {
     .map(
       (video) => `
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/${video.videoId}/maxresdefault.jpg" alt="${video.title}" width="140px">
+  <img src="https://img.youtube.com/vi/${video.videoId}/hqdefault.jpg" alt="${video.title}" width="140px">
   <p>
     <a href="${video.url}">${video.title}</a><br>
     ${video.date.toDateString()}
