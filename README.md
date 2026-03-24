@@ -84,7 +84,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/TP28BgSsAe0/maxresdefault.jpg" alt="Skid mark waiting to happen" width="140px">
+  <img src="https://img.youtube.com/vi/TP28BgSsAe0/hqdefault.jpg" alt="Skid mark waiting to happen" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=TP28BgSsAe0">Skid mark waiting to happen</a><br>
     Thu Sep 25 2025
@@ -93,7 +93,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/2DQ7_ocNkTI/maxresdefault.jpg" alt="Mastering Solution Architecture | John Brondum & Matt Wicks | Slash New 2025" width="140px">
+  <img src="https://img.youtube.com/vi/2DQ7_ocNkTI/hqdefault.jpg" alt="Mastering Solution Architecture | John Brondum & Matt Wicks | Slash New 2025" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=2DQ7_ocNkTI">Mastering Solution Architecture | John Brondum & Matt Wicks | Slash New 2025</a><br>
     Wed Sep 10 2025
@@ -102,7 +102,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/BrSo-4v7_Xc/maxresdefault.jpg" alt="Ransomware Drills & IR Plans: How Ready Is Your Org? | Matt WIcks & Kat McCrabb | Slash New 2025" width="140px">
+  <img src="https://img.youtube.com/vi/BrSo-4v7_Xc/hqdefault.jpg" alt="Ransomware Drills & IR Plans: How Ready Is Your Org? | Matt WIcks & Kat McCrabb | Slash New 2025" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=BrSo-4v7_Xc">Ransomware Drills & IR Plans: How Ready Is Your Org? | Matt WIcks & Kat McCrabb | Slash New 2025</a><br>
     Wed Sep 10 2025
@@ -111,7 +111,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/AvwPyTKdDE4/maxresdefault.jpg" alt="Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025" width="140px">
+  <img src="https://img.youtube.com/vi/AvwPyTKdDE4/hqdefault.jpg" alt="Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=AvwPyTKdDE4">Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025</a><br>
     Mon Jul 28 2025
@@ -120,7 +120,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/hx3acbHE7uM/maxresdefault.jpg" alt="🚀 High-Performance Content Management | Matt Wicks | SSW User Groups" width="140px">
+  <img src="https://img.youtube.com/vi/hx3acbHE7uM/hqdefault.jpg" alt="🚀 High-Performance Content Management | Matt Wicks | SSW User Groups" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=hx3acbHE7uM">🚀 High-Performance Content Management | Matt Wicks | SSW User Groups</a><br>
     Wed Jun 11 2025
@@ -129,7 +129,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/FmHTq6muq-Y/maxresdefault.jpg" alt="Tech News # 48 | Matt Wicks | AI, GitHub, .NET 10 Preview + Russian Influence on Chatbots" width="140px">
+  <img src="https://img.youtube.com/vi/FmHTq6muq-Y/hqdefault.jpg" alt="Tech News # 48 | Matt Wicks | AI, GitHub, .NET 10 Preview + Russian Influence on Chatbots" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=FmHTq6muq-Y">Tech News # 48 | Matt Wicks | AI, GitHub, .NET 10 Preview + Russian Influence on Chatbots</a><br>
     Thu May 22 2025
@@ -138,7 +138,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/eha7mSHgIFQ/maxresdefault.jpg" alt="The best of tech at /NEW 2025 | Matt Wicks" width="140px">
+  <img src="https://img.youtube.com/vi/eha7mSHgIFQ/hqdefault.jpg" alt="The best of tech at /NEW 2025 | Matt Wicks" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=eha7mSHgIFQ">The best of tech at /NEW 2025 | Matt Wicks</a><br>
     Thu May 22 2025
@@ -147,7 +147,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/WrZWWFnsDOg/maxresdefault.jpg" alt="The best of tech at /NEW 2025 | Matt Wicks" width="140px">
+  <img src="https://img.youtube.com/vi/WrZWWFnsDOg/hqdefault.jpg" alt="The best of tech at /NEW 2025 | Matt Wicks" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=WrZWWFnsDOg">The best of tech at /NEW 2025 | Matt Wicks</a><br>
     Thu May 22 2025
@@ -156,7 +156,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/MTshbbBwrHw/maxresdefault.jpg" alt="TinaCMS - new filename config options" width="140px">
+  <img src="https://img.youtube.com/vi/MTshbbBwrHw/hqdefault.jpg" alt="TinaCMS - new filename config options" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=MTshbbBwrHw">TinaCMS - new filename config options</a><br>
     Mon Sep 30 2024
@@ -165,7 +165,7 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/59G9Cd-rV9w/maxresdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups" width="140px">
+  <img src="https://img.youtube.com/vi/59G9Cd-rV9w/hqdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=59G9Cd-rV9w">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups</a><br>
     Wed May 01 2024
