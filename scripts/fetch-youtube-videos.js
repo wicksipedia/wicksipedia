@@ -1,4 +1,3 @@
-import fetch from "node-fetch";
 import fs from "fs";
 
 const apiKey = process.env.YOUTUBE_API_KEY;

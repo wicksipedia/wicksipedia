@@ -20,23 +20,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version-file: .nvmrc
+      - uses: oven-sh/setup-bun@v2
 
-      - uses: pnpm/action-setup@v4
-        with:
-          package_json_file: package.json
-          run_install: true
+      - run: bun install
 
       - name: Fetch and update blog posts
-        run: pnpm run fetch-blog-posts
+        run: bun run fetch-blog-posts
         env:
           BLOG_FEED_URL: https://wicksipedia.com/rss.xml
           OUTPUT_FILE: ./README.md
 
       - name: Fetch and sort YouTube videos
-        run: pnpm run fetch-youtube-videos
+        run: bun run fetch-youtube-videos
         env:
           YOUTUBE_CHANNEL_IDS: UCz-9w1yxZVXofthsmh77G1w
           YOUTUBE_PLAYLIST_IDS: PLpiOR7CBNvlouByIBdQP_YiGkrYqKCWgP

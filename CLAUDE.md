@@ -9,15 +9,15 @@ GitHub profile repo for Matt Wicks. The README.md is auto-updated by GitHub Acti
 ## Commands
 
 ```bash
-pnpm install          # install deps
-node scripts/fetch-blog-posts.js      # update blog section in README
-node scripts/fetch-youtube-videos.js  # update YouTube section (needs YOUTUBE_API_KEY env var)
+bun install          # install deps
+bun scripts/fetch-blog-posts.js      # update blog section in README
+bun scripts/fetch-youtube-videos.js  # update YouTube section (needs YOUTUBE_API_KEY env var)
 ```
 
 ## Architecture
 
 - **README.md** — the profile. Content between HTML comment markers (`<!-- BLOG-POST-LIST:START/END -->`, `<!-- YOUTUBE-VIDEOS-LIST:START/END -->`) is machine-managed. Don't hand-edit those sections.
-- **scripts/** — Node 20 ESM scripts that parse RSS/YouTube feeds and splice content into README via marker comments
+- **scripts/** — ESM scripts (run via Bun) that parse RSS/YouTube feeds and splice content into README via marker comments
 - **profile/** — Generated stats SVGs (committed by CI, not hand-edited)
 - **.github/workflows/**
   - `daily-update.yml` — runs every 4h + on push: fetches blog & YouTube, auto-commits
@@ -25,8 +25,7 @@ node scripts/fetch-youtube-videos.js  # update YouTube section (needs YOUTUBE_AP
 
 ## Key Details
 
-- Package manager: **pnpm 9.15.5**
-- Node version: **20** (see `.nvmrc`)
+- Runtime & package manager: **Bun**
 - YouTube API key is a GitHub Actions secret (`YOUTUBE_API_KEY`)
 - Videos with "zz" prefix in title are filtered out
 - Blog feed: `wicksipedia.com/rss.xml` (top 10)
