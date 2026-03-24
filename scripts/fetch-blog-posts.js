@@ -2,6 +2,7 @@ import fs from 'fs';
 import { parseStringPromise } from 'xml2js';
 
 async function fetchBlogPosts(feedUrl, outputPath, maxPosts) {
+  console.log(`Fetching RSS feed from ${feedUrl}`);
   const response = await fetch(feedUrl);
   const xml = await response.text();
   const json = await parseStringPromise(xml);
@@ -12,6 +13,9 @@ async function fetchBlogPosts(feedUrl, outputPath, maxPosts) {
     date: new Date(post.pubDate[0]),
     description: post.description[0]
   }));
+
+  console.log(`Found ${posts.length} posts:`);
+  posts.forEach(post => console.log(`  - ${post.title} (${post.date.toDateString()})`));
 
   const markdown = posts.map(post => `
 #### [${post.title}](${post.url})
@@ -25,6 +29,7 @@ ${post.date.toDateString()} - *${post.description}*
   );
 
   fs.writeFileSync(outputPath, updatedContent);
+  console.log(`Updated ${outputPath}`);
 }
 
 const feedUrl = process.env.BLOG_FEED_URL;

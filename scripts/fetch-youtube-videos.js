@@ -31,6 +31,7 @@ function saveVideosToFile(html, outputPath) {
 }
 
 async function fetchPlaylistVideos(apiKey, playlistId) {
+  console.log(`Fetching playlist ${playlistId}`);
   let nextPageToken = "";
   const videos = [];
 
@@ -57,10 +58,12 @@ async function fetchPlaylistVideos(apiKey, playlistId) {
     nextPageToken = data.nextPageToken || "";
   } while (nextPageToken);
 
+  console.log(`  Found ${videos.length} videos`);
   return videos;
 }
 
 async function fetchChannelVideos(apiKey, channelId) {
+  console.log(`Fetching channel ${channelId}`);
   let nextPageToken = "";
   const videos = [];
 
@@ -87,6 +90,7 @@ async function fetchChannelVideos(apiKey, channelId) {
     nextPageToken = data.nextPageToken || "";
   } while (nextPageToken);
 
+  console.log(`  Found ${videos.length} videos`);
   return videos;
 }
 
@@ -97,13 +101,18 @@ async function main() {
       ...channelIds.map((id) => fetchChannelVideos(apiKey, id)),
     ]);
 
-    const filteredVideos = [...playlistVideos, ...channelVideos]
+    const allVideos = [...playlistVideos, ...channelVideos];
+    const filteredVideos = allVideos
       .filter((video) => !video.title.startsWith("zz"))
       .sort((a, b) => b.date - a.date) // Sort by date (newest first)
       .slice(0, 10);
 
+    console.log(`\n${allVideos.length} total → ${filteredVideos.length} after filtering:`);
+    filteredVideos.forEach(v => console.log(`  - ${v.title} (${v.date.toDateString()})`));
+
     const html = formatVideosToHTML(filteredVideos);
     saveVideosToFile(html, outputPath);
+    console.log(`Updated ${outputPath}`);
   } catch (error) {
     console.error(error);
   }
