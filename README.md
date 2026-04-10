@@ -84,6 +84,15 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/XrsoFQhn1HA/hqdefault.jpg" alt="Git Worktrees Explained: Fix Production Bugs Without Losing Focus" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=XrsoFQhn1HA">Git Worktrees Explained: Fix Production Bugs Without Losing Focus</a><br>
+    Fri Apr 10 2026
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
   <img src="https://img.youtube.com/vi/TP28BgSsAe0/hqdefault.jpg" alt="Skid mark waiting to happen" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=TP28BgSsAe0">Skid mark waiting to happen</a><br>
@@ -160,15 +169,6 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
   <p>
     <a href="https://www.youtube.com/watch?v=MTshbbBwrHw">TinaCMS - new filename config options</a><br>
     Mon Sep 30 2024
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/59G9Cd-rV9w/hqdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=59G9Cd-rV9w">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups</a><br>
-    Wed May 01 2024
   </p>
 </div>
       
