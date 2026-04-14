@@ -35,13 +35,13 @@ Fri Mar 06 2026 - *My code changes weren't showing up. Turns out I was running t
   
 
 
-#### [One CLI to Rule npm, yarn, pnpm, and bun](https://wicksipedia.com/blog/ni-universal-package-manager/)
-Thu Mar 05 2026 - *Juggling npm, yarn, pnpm, and bun across projects? ni detects your package manager and runs the right command. Here's my setup.*
+#### [My Fast Zsh Setup Without Oh My Zsh (But With Its Best Plugins)](https://wicksipedia.com/blog/modern-zsh-setup/)
+Thu Mar 05 2026 - *A modern Zsh config that cherry-picks the best Oh My Zsh plugins via Zinit, adds Starship, fnm, zoxide, and Atuin, and starts in 120ms. Full .zshrc included.*
   
 
 
-#### [My Fast Zsh Setup Without Oh My Zsh (But With Its Best Plugins)](https://wicksipedia.com/blog/modern-zsh-setup/)
-Thu Mar 05 2026 - *A modern Zsh config that cherry-picks the best Oh My Zsh plugins via Zinit, adds Starship, fnm, zoxide, and Atuin, and starts in 120ms. Full .zshrc included.*
+#### [One CLI to Rule npm, yarn, pnpm, and bun](https://wicksipedia.com/blog/ni-universal-package-manager/)
+Thu Mar 05 2026 - *Juggling npm, yarn, pnpm, and bun across projects? ni detects your package manager and runs the right command. Here's my setup.*
   
 
 
