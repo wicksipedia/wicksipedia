@@ -93,15 +93,6 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/TP28BgSsAe0/hqdefault.jpg" alt="Skid mark waiting to happen" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=TP28BgSsAe0">Skid mark waiting to happen</a><br>
-    Thu Sep 25 2025
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
   <img src="https://img.youtube.com/vi/2DQ7_ocNkTI/hqdefault.jpg" alt="Mastering Solution Architecture | John Brondum & Matt Wicks | Slash New 2025" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=2DQ7_ocNkTI">Mastering Solution Architecture | John Brondum & Matt Wicks | Slash New 2025</a><br>
@@ -165,10 +156,19 @@ Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with
       
 
 <div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/MTshbbBwrHw/hqdefault.jpg" alt="TinaCMS - new filename config options" width="140px">
+  <img src="https://img.youtube.com/vi/59G9Cd-rV9w/hqdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups" width="140px">
   <p>
-    <a href="https://www.youtube.com/watch?v=MTshbbBwrHw">TinaCMS - new filename config options</a><br>
-    Mon Sep 30 2024
+    <a href="https://www.youtube.com/watch?v=59G9Cd-rV9w">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson | SSW User Groups</a><br>
+    Wed May 01 2024
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/iUI_onYG6jM/hqdefault.jpg" alt="Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=iUI_onYG6jM">Cloud Native Aspirations with .NET Aspire | Matt Wicks & Rob Pearson</a><br>
+    Fri Apr 12 2024
   </p>
 </div>
       
