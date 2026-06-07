@@ -30,6 +30,11 @@ My mission is to leverage technology to make the world a better place for my two
 
 <!-- BLOG-POST-LIST:START -->
 
+#### [Aspire led me to the pit of success (but things were broken on the first deploy)](https://wicksipedia.com/blog/aspire-sqlclient-7-missing-azure-provider/)
+Sun Jun 07 2026 - *A 5-minute prod 500 fix that taught me why doing the boring observability work upfront is always worth it, and where .NET Aspire's managed-identity story still has a gap.*
+  
+
+
 #### [Git Worktrees Are Great Until You Forget Which One You're Running](https://wicksipedia.com/blog/git-worktrees-are-great-until-you-forget-which-one-youre-running/)
 Fri Mar 06 2026 - *My code changes weren't showing up. Turns out I was running the app from the wrong worktree. So I built a fzf plugin to fix that.*
   
@@ -72,11 +77,6 @@ Thu Jan 22 2026 - *Explore how AI is reshaping software engineering in 2026 and 
 
 #### [Setting up my terminal for productivity and enjoyment with Oh My Zsh](https://wicksipedia.com/blog/terminal-setup/)
 Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10k theme, and essential tools. Learn to manage Node versions and enhance your workflow efficiency.*
-  
-
-
-#### [Optimizing Your New Mac Setup: Essential Tools and Apps](https://wicksipedia.com/blog/setting-up-a-new-mac/)
-Sat Nov 25 2023 - *Set up your new Mac with essential tools and apps. Start with Homebrew, discover productivity boosters, and enhance your MacOS workflow with efficiency.*
   
 <!-- BLOG-POST-LIST:END -->
 
