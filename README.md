@@ -84,6 +84,33 @@ Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/atFQlH6t_sc/hqdefault.jpg" alt="Stop Mocking Everything: A Practical Guide to Integration Testing | Matt Wicks | NDC Sydney 2026" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=atFQlH6t_sc">Stop Mocking Everything: A Practical Guide to Integration Testing | Matt Wicks | NDC Sydney 2026</a><br>
+    Wed Aug 26 2026
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/6NIOV7J25HM/hqdefault.jpg" alt="Will AI Take Your Dev Job? The Real Answer | Matt Wicks | NDC Sydney 2026" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=6NIOV7J25HM">Will AI Take Your Dev Job? The Real Answer | Matt Wicks | NDC Sydney 2026</a><br>
+    Wed Aug 26 2026
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/rSK0Euxyc0U/hqdefault.jpg" alt="Why We Shouldn’t Live on Mars, Humanity’s Future in Space | Matt Wicks | NDC Sydney 2026" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=rSK0Euxyc0U">Why We Shouldn’t Live on Mars, Humanity’s Future in Space | Matt Wicks | NDC Sydney 2026</a><br>
+    Wed Aug 26 2026
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
   <img src="https://img.youtube.com/vi/XrsoFQhn1HA/hqdefault.jpg" alt="Git Worktrees Explained: Fix Production Bugs Without Losing Focus" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=XrsoFQhn1HA">Git Worktrees Explained: Fix Production Bugs Without Losing Focus</a><br>
@@ -142,33 +169,6 @@ Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10
   <p>
     <a href="https://www.youtube.com/watch?v=FmHTq6muq-Y">Tech News # 48 | Matt Wicks | AI, GitHub, .NET 10 Preview + Russian Influence on Chatbots</a><br>
     Thu May 22 2025
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/eha7mSHgIFQ/hqdefault.jpg" alt="The best of tech at /NEW 2025 | Matt Wicks" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=eha7mSHgIFQ">The best of tech at /NEW 2025 | Matt Wicks</a><br>
-    Thu May 22 2025
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/WrZWWFnsDOg/hqdefault.jpg" alt="The best of tech at /NEW 2025 | Matt Wicks" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=WrZWWFnsDOg">The best of tech at /NEW 2025 | Matt Wicks</a><br>
-    Thu May 22 2025
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/MTshbbBwrHw/hqdefault.jpg" alt="TinaCMS - new filename config options" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=MTshbbBwrHw">TinaCMS - new filename config options</a><br>
-    Mon Sep 30 2024
   </p>
 </div>
       
