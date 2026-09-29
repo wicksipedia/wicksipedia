@@ -84,6 +84,15 @@ Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/QfTOFTOCD-w/hqdefault.jpg" alt="omacchiato: omarchy-style tiling for macOS, built on OmniWM and omacosy" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=QfTOFTOCD-w">omacchiato: omarchy-style tiling for macOS, built on OmniWM and omacosy</a><br>
+    Tue Sep 29 2026
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
   <img src="https://img.youtube.com/vi/atFQlH6t_sc/hqdefault.jpg" alt="Stop Mocking Everything: A Practical Guide to Integration Testing | Matt Wicks | NDC Sydney 2026" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=atFQlH6t_sc">Stop Mocking Everything: A Practical Guide to Integration Testing | Matt Wicks | NDC Sydney 2026</a><br>
@@ -160,15 +169,6 @@ Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10
   <p>
     <a href="https://www.youtube.com/watch?v=hx3acbHE7uM">🚀 High-Performance Content Management | Matt Wicks | SSW User Groups</a><br>
     Wed Jun 11 2025
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/FmHTq6muq-Y/hqdefault.jpg" alt="Tech News # 48 | Matt Wicks | AI, GitHub, .NET 10 Preview + Russian Influence on Chatbots" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=FmHTq6muq-Y">Tech News # 48 | Matt Wicks | AI, GitHub, .NET 10 Preview + Russian Influence on Chatbots</a><br>
-    Thu May 22 2025
   </p>
 </div>
       
