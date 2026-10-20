@@ -84,6 +84,15 @@ Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/j8egYW7Jpgk/hqdefault.jpg" alt="Getting started with TinaCMS | Matt Wicks" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=j8egYW7Jpgk">Getting started with TinaCMS | Matt Wicks</a><br>
+    Tue Oct 20 2026
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
   <img src="https://img.youtube.com/vi/QfTOFTOCD-w/hqdefault.jpg" alt="omacchiato: omarchy-style tiling for macOS, built on OmniWM and omacosy" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=QfTOFTOCD-w">omacchiato: omarchy-style tiling for macOS, built on OmniWM and omacosy</a><br>
@@ -160,15 +169,6 @@ Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10
   <p>
     <a href="https://www.youtube.com/watch?v=AvwPyTKdDE4">Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025</a><br>
     Mon Jul 28 2025
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/hx3acbHE7uM/hqdefault.jpg" alt="🚀 High-Performance Content Management | Matt Wicks | SSW User Groups" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=hx3acbHE7uM">🚀 High-Performance Content Management | Matt Wicks | SSW User Groups</a><br>
-    Wed Jun 11 2025
   </p>
 </div>
       
