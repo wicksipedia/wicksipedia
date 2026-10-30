@@ -84,6 +84,15 @@ Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
 <div style="margin-bottom: 20px;">
+  <img src="https://img.youtube.com/vi/iQ3CP8wmW9Y/hqdefault.jpg" alt="Meeting Recordings: How to Get Consent Right | Matt Wicks | SSW Rules" width="140px">
+  <p>
+    <a href="https://www.youtube.com/watch?v=iQ3CP8wmW9Y">Meeting Recordings: How to Get Consent Right | Matt Wicks | SSW Rules</a><br>
+    Fri Oct 30 2026
+  </p>
+</div>
+      
+
+<div style="margin-bottom: 20px;">
   <img src="https://img.youtube.com/vi/j8egYW7Jpgk/hqdefault.jpg" alt="Getting started with TinaCMS | Matt Wicks" width="140px">
   <p>
     <a href="https://www.youtube.com/watch?v=j8egYW7Jpgk">Getting started with TinaCMS | Matt Wicks</a><br>
@@ -160,15 +169,6 @@ Sat Dec 02 2023 - *Boost your terminal productivity with Oh My Zsh, powerlevel10
   <p>
     <a href="https://www.youtube.com/watch?v=BrSo-4v7_Xc">Ransomware Drills & IR Plans: How Ready Is Your Org? | Matt WIcks & Kat McCrabb | Slash New 2025</a><br>
     Wed Sep 10 2025
-  </p>
-</div>
-      
-
-<div style="margin-bottom: 20px;">
-  <img src="https://img.youtube.com/vi/AvwPyTKdDE4/hqdefault.jpg" alt="Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025" width="140px">
-  <p>
-    <a href="https://www.youtube.com/watch?v=AvwPyTKdDE4">Top 3 Aspire Features Every Developer Needs to Know | Aaron Powell & Matt Wicks | Slash NEW 2025</a><br>
-    Mon Jul 28 2025
   </p>
 </div>
       
